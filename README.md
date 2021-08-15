@@ -10,5 +10,5 @@ This evaluation code  is at https://github.com/users/TOT-BENCHMARK/projects/1#ca
 It is worth noting that the evaluation code derived from https://github.com/HengLan/LaSOT_Evaluation_Toolkit.
 
 # Tracking Model
-This tracking model is at https://github.com/users/TOT-BENCHMARK/projects/1#card-59237975.
+This tracking model is at https://pan.baidu.com/s/1t00RI_ULGg7tWvB02E39sQ.
 
