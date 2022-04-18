@@ -6,8 +6,9 @@ the site of whole dataset is at 链接：https://pan.baidu.com/s/1EGSSOGsGeRGgRB
  the split of training set and testing set is at https://github.com/users/TOT-BENCHMARK/projects/1#card-59237975
 
 # Evaluation Code
-This evaluation code  is at 链接：https://pan.baidu.com/s/17jYZjOesz_wsC0596_QIcQ 
-提取码：sao2.
+链接：https://pan.baidu.com/s/1XZjhC3_45ndJLp_PAZ4lrQ 
+提取码：chaj
+
 It is worth noting that the evaluation code derived from https://github.com/HengLan/LaSOT_Evaluation_Toolkit.
 
 # Tracking Model
